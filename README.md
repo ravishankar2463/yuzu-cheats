@@ -1,10 +1,10 @@
 # yuzu-cheats
-Python Script to Add CHeats to YUZU Emulator
+Python Script to Add Cheats to YUZU Emulator
 
 !Important: 
 
-Please Change The mods location to the location on your pc where the witch mods are saved.
-E.G.:- C:\Users\ravis\AppData\Roaming\yuzu\load
+Please Change The mods location to the location on your pc where the witch mods are saved in modlocation.csv.
+E.G.:- mod_location;"C:\Users\ravis\AppData\Roaming\yuzu\load"
 
 Useage of the script:-
 Pass the Title ID of the Game you need the cheats for as a parameter from command line.
